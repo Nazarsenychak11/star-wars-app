@@ -1,0 +1,48 @@
+.single-element-wrapper {
+  display: flex;
+}
+
+.single-element-info div {
+  display: flex;
+}
+
+.single-element-image {
+  display: block;
+  position: relative;
+  width: 45%;
+  height: 500px;
+  background-size: cover !important;
+  background-position: center center !important;
+  margin-right: 20px;
+}
+
+.single-element-info {
+  display: block;
+  background: #000;
+  height: auto;
+  min-height: 200px;
+  width: 50%;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  padding: 20px 10px;
+  box-sizing: border-box;
+  line-height:20px;
+}
+
+.info-property {
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 23px;
+  text-transform: uppercase;
+  color:#939393;
+  margin-right: 10px;
+}
+
+.left {
+  flex: 50%;
+}
+
+.right {
+  flex: 50%;
+}
