@@ -1,13 +1,13 @@
 {
-  "main.css": "/star-wars-app/static/css/main.b1db09f3.chunk.css",
-  "main.js": "/star-wars-app/static/js/main.5798fa60.chunk.js",
-  "main.js.map": "/star-wars-app/static/js/main.5798fa60.chunk.js.map",
-  "static/js/1.d6a689b0.chunk.js": "/star-wars-app/static/js/1.d6a689b0.chunk.js",
-  "static/js/1.d6a689b0.chunk.js.map": "/star-wars-app/static/js/1.d6a689b0.chunk.js.map",
+  "main.css": "/star-wars-app/static/css/main.e5616a88.chunk.css",
+  "main.js": "/star-wars-app/static/js/main.f976ba14.chunk.js",
+  "main.js.map": "/star-wars-app/static/js/main.f976ba14.chunk.js.map",
+  "static/js/1.1c1c0999.chunk.js": "/star-wars-app/static/js/1.1c1c0999.chunk.js",
+  "static/js/1.1c1c0999.chunk.js.map": "/star-wars-app/static/js/1.1c1c0999.chunk.js.map",
   "runtime~main.js": "/star-wars-app/static/js/runtime~main.47f42d09.js",
   "runtime~main.js.map": "/star-wars-app/static/js/runtime~main.47f42d09.js.map",
-  "static/css/main.b1db09f3.chunk.css.map": "/star-wars-app/static/css/main.b1db09f3.chunk.css.map",
+  "static/css/main.e5616a88.chunk.css.map": "/star-wars-app/static/css/main.e5616a88.chunk.css.map",
   "index.html": "/star-wars-app/index.html",
-  "precache-manifest.c453af97cde3e2dc39f09912ed18d981.js": "/star-wars-app/precache-manifest.c453af97cde3e2dc39f09912ed18d981.js",
+  "precache-manifest.c615eee839f870a52a5bfc36a49c103a.js": "/star-wars-app/precache-manifest.c615eee839f870a52a5bfc36a49c103a.js",
   "service-worker.js": "/star-wars-app/service-worker.js"
 }
